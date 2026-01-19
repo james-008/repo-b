@@ -1,17 +1,4 @@
-/*
- * Sin-Yaw Wang <swang24@scu.edu>
- * Test program
- */
-#include <iostream>
-#include <iomanip>
-#include <string>
-#include <sstream>
-#include <stdexcept>
-#include "bag.h"
 
-using namespace std;
-using namespace csen79;
-enum Command
 {
   ENQ = 'E',
   DEQ = 'D',
